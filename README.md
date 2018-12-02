@@ -67,10 +67,9 @@ With Darasa Web dashboard. The administration of the school are able to track th
 ![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
 
 
-#### App Stores
-Is the app published? You can share a link as below:
+#### App Store
 
-[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
+[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.job.darasastudent)
 
 
 ## Permissions
@@ -84,7 +83,7 @@ Is the app published? You can share a link as below:
 
 Add the various things that you are working on.  
 
-- [ ] Adding scan animations to the Student scan screen
+- [x] Adding scan animations to the Student scan screen
 - [x] Creating a Qr code
 - [ ] Updating the App to use AndroidX
 - [x] Updating theme to Material design components
@@ -93,7 +92,7 @@ Add the various things that you are working on.
 - [ ] Make web dashboard more reactive
 
 
-### Promo Video
+### Promo Video (Click for full video)
 [![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=W8b31sNxOVA)
 
 #### CONTRIBUTING
@@ -110,26 +109,30 @@ For any concerns, please open an [issue](https://github.com/JobGetabu/Darasa-IEE
 
 
 ## License 
-* see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/LICENSE.md) file
+* see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) file
 
 
 ## Versions 
 ### Lecturer app
 * Version 2.0  DATE 2/12/2018
+* [Download Darasa Lecturer app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Lecturer.apk)
+
 ### Student app
-* Version 2.0  DATE 2/12/2018
+* Version 1.5  DATE 2/12/2018
+* [Download Darasa Student app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Student.apk)
 
 
 
 ## Contact information
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/JobGetabu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/JobGetabu/Darasa-IEEEMadC/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/JobGetabu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/JobGetabu/Darasa-IEEEMadC/issues) to report them.
 
 
 #### Developer
 * Homepage: [@About Me](http://jobgetabu.me/)
 * Twitter: [@job_getabu](https://twitter.com/job_getabu )
 
-
+### Summary
+| [Darasa Lecturer app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Lecturer.apk) | [Darasa Student app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Student.apk) | Team Name: Darasa | Darasa project is a class attendance, monitoring and management system | [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) | Kenya | [Job Getabu](https://github.com/JobGetabu) | [Denis Mwaniki](https://github.com/sling254) | [Samwel Kamwana](https://github.com/kamwanasamwel)
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
